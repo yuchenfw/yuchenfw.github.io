@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## yuchenfw的博客
 
-You can use the [editor on GitHub](https://github.com/yuchenfw/yuchenfw.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome,this is my blog.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Android
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Android部分包含了Android开发过程中解决问题方法、解决问题的代码及部分经验之谈。
 
-```markdown
-Syntax highlighted code block
+-[模仿今日头条客户端的界面及简单功能实现](http://blog.csdn.net/xz_studying/article/details/52169655)
 
-# Header 1
-## Header 2
-### Header 3
+-[Android音乐播放器的设计](http://blog.csdn.net/xz_studying/article/details/51584309)
 
-- Bulleted
-- List
+-[apk调试安装过程中logcat显示Activity不存在的问题](http://blog.csdn.net/xz_studying/article/details/51494499)
 
-1. Numbered
-2. List
+-[ The specified child already has a parent问题](http://blog.csdn.net/xz_studying/article/details/52035570)
 
-**Bold** and _Italic_ and `Code` text
+-[Android Studio的aar包导入问题](http://blog.csdn.net/xz_studying/article/details/72772744)
 
-[Link](url) and ![Image](src)
-```
+-[自定义歌词View的优化（三） -歌词拖动的实现](http://blog.csdn.net/xz_studying/article/details/52903259)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-[自定义歌词View的优化（二）-歌词换行](http://blog.csdn.net/xz_studying/article/details/52087998)
 
-### Jekyll Themes
+-[自定义歌词View的优化（一）](http://blog.csdn.net/xz_studying/article/details/52079129)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuchenfw/yuchenfw.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-[ Android Studio中Grpc的配置](http://blog.csdn.net/xz_studying/article/details/75575016)
 
-### Support or Contact
+### Java
+Java部分包含了Java开发过程中解决问题方法、解决问题的代码及部分经验之谈。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-[ JDK环境快速配置工具](http://blog.csdn.net/xz_studying/article/details/77758741)
