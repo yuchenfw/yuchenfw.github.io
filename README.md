@@ -29,3 +29,6 @@ Android部分包含了Android开发过程中解决问题方法、解决问题的
 Java部分包含了Java开发过程中解决问题方法、解决问题的代码及部分经验之谈。
 
 -[ JDK环境快速配置工具](http://blog.csdn.net/xz_studying/article/details/77758741)
+
+### Unity与Android结合
+-[Unity在Android Activity中加载的时期测试](http://blog.csdn.net/xz_studying/article/details/78126964)
